@@ -1,0 +1,1 @@
+jmeter -n -t "Jmeter1.jmx" -Jthreads=1 -Jrampup=10 -Jduration=15 -JserverUrl="localhost"
